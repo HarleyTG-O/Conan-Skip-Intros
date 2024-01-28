@@ -4,6 +4,8 @@ Skip conan exiles intro's
 
 Conan exiles Skip Movie Intro
 
+You can Download thru Git or Zip
+
 
 Without Movie is everything but conan exiles movie has nividia and U4
 Without Everything is basicly everything
