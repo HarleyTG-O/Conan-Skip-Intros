@@ -21,3 +21,6 @@ Replace with Downloaded File
 
 
 C:\Program Files (x86)\Steam\steamapps\common\Conan Exiles\ConanSandbox\Config
+
+
+New .Bat Files to Automate this 
