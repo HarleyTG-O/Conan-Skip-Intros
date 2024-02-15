@@ -16,3 +16,6 @@ Replace with Downloaded File
 
 
 C:\Program Files (x86)\Steam\steamapps\common\Conan Exiles\ConanSandbox\Config
+
+
+>.bat files is to make it faster with 1 click
