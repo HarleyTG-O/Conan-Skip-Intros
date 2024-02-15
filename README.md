@@ -7,6 +7,10 @@ Conan exiles Skip Movie Intro
 You can Download thru Git or Zip
 
 
+Run
+ConanExiles_ConfigReplacementScript.bat
+its an all in 1
+
 Without Movie is everything but conan exiles movie has nividia and U4
 Without Everything is basicly everything
 Default
