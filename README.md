@@ -24,3 +24,4 @@ C:\Program Files (x86)\Steam\steamapps\common\Conan Exiles\ConanSandbox\Config
 
 
 New .Bat Files to Automate this 
+>.bat files is to make it faster with 1 click
